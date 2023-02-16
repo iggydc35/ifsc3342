@@ -45,4 +45,8 @@ footer{
     color: white;
     font-size: 30px;
     
-  }  
+  }
+
+  
+@media screen and (max-width:800px) and (min-width:601px){
+}  
