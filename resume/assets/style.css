@@ -15,7 +15,7 @@ img{max-width:100%;}
 /* ------ Utility Classes  -------*/
 .container{
   margin:0 auto;
-  background:rgba(0,0,0,.15);
+  background:#1B1212;
   width:480px;
 }
 
@@ -79,7 +79,7 @@ main h1 {
   font-variant:small-caps;
 }
 main h1:before, main h1:after {
-  background-color: #222;
+  background-color: orange;
   content: '\a0';
   flex-grow: 1;
   height: 1px;
@@ -133,7 +133,7 @@ dd{
   color:#222222;
   text-transform:uppercase;
   font-size:.75em;
-  background:rgba(0,0,0,.65);
+  background:grey;
   transition: background-color 0.5s ease;
   color:#fff;
 }
