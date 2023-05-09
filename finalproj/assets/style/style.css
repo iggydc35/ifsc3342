@@ -68,13 +68,16 @@ html {
     margin-left:2.083%;
    padding:2.083%;
   }
-  footer.primary {
-    /*width: 920px;*/
-    width:95.83%;
-    /*margin: 20px;*/
-    margin:2.08%;
-    background-color: #222;
-    float: left;
-    /*padding: 20px;*/
-    padding:2.083%;
+  footer{
+    position: fixed;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
   }
+
+
+  
